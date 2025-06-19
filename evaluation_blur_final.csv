@@ -1,0 +1,501 @@
+file_path,ground_truth,checkpoint_pred,transformer_v2_pred,tesseract_pred,checkpoint_wer,transformer_v2_wer,tesseract_wer,checkpoint_cer,transformer_v2_cer,tesseract_cer
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2280.jpg,philosophy dont,phécussions,responsibility deal,,1,1,1,0.6667,0.7368,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1034.jpg,severity,severity,identify,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2457.jpg,mise ber,misseBor,miss boy,,1,1,1,0.5,0.375,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1961.jpg,Rey,Rey,they,,0,1,1,0,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1365.jpg,ellent,ellent,different,,0,1,1,0,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3740.jpg,quand,deved,future,,1,1,1,0.8,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/106.jpg,foundations fine,foundationsfine,knowledge line,,1,1,1,0.0625,0.6875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1521.jpg,Asc,Asc,it also,,0,1,1,0,0.8571,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/936.jpg,res,res,message remember run run run,,0,1,1,0,0.9286,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/322.jpg,Nintendo gent,Hinterchesens,themselves some,,1,1,1,0.5385,0.8667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/109.jpg,ifest,ifest,I,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2506.jpg,productive,productive,shoulder,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/757.jpg,subsection,aubsation,education,,1,1,1,0.3,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1204.jpg,existe,existe,soldier,,0,1,1,0,0.8571,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1195.jpg,ishops arrêtés,ishapsorrités,I others artist,,1,1,1,0.2857,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2596.jpg,souvenir,suscende,Democrat,,1,1,1,0.625,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/198.jpg,Harvard,Harvend,friend card,Harvard,1,1,0,0.2857,0.7273,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/442.jpg,Au,Au,just,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4196.jpg,Lamb,Lamb,identify,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2576.jpg,Democ Kremlin,DemocKernin,Democ I family,Democ Kremlin,1,0.6667,0,0.3077,0.5,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3512.jpg,Khan holidays,Showhedicap,form political,,1,1,1,0.6923,0.7143,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3779.jpg,prevents Bonne,procecoûtsBinco,threat rock blood ok,,1,1,1,0.6,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3706.jpg,accord,accord,around I,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/121.jpg,presidency engagement,proficiationsconstrations,mission environmental,,1,1,1,0.76,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1101.jpg,anti,anti,until,,0,1,1,0,0.4,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/957.jpg,del,utel,deal,,1,1,1,0.5,0.25,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3524.jpg,bold générer,boldgénérer,build whether,bold générer,1,1,0,0.0833,0.5385,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2681.jpg,bene,bene,Congress,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1358.jpg,maire,maire,magazine,,0,1,1,0,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4392.jpg,20),20),with,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1924.jpg,reviews towns,recitenslovens,realize lawyer,reviews towns,1,1,0,0.5,0.7143,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4444.jpg,Fore,Fore,forget,,0,1,1,0,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/324.jpg,third,bend,friend,,1,1,1,0.8,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2270.jpg,founder,founder,future,,0,1,1,0,0.7143,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/17.jpg,ach,ach,both,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4390.jpg,décid,décid,difficult,,0,1,1,0,0.7778,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3609.jpg,cerveau muc,conteslymis,somebody miss,,1,1,1,0.7273,0.8462,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/956.jpg,Potter,Potter,painting remember remember,,0,1,1,0,0.8846,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2675.jpg,sortir,sortir,ability,,0,1,1,0,0.8571,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/902.jpg,trés,trés,trade,,0,1,1,0,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1527.jpg,salt,edic,still,,1,1,1,1,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1287.jpg,Cal,Cal,could,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2392.jpg,skills orbit,adisorgic,talk adult,,1,1,1,0.5833,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2383.jpg,say,say,early,,0,1,1,0,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/495.jpg,sequ,sequ,could,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1129.jpg,infirm,infirm,billion,,0,1,1,0,0.7143,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2.jpg,ext,ext,card,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/132.jpg,tial,tial,itself,,0,1,1,0,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/220.jpg,mented bres,mentivedbres,medical find,,1,1,1,0.25,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/306.jpg,16,16,kid,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1014.jpg,Ar,Ar,Mrs,,0,1,1,0,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2364.jpg,own,own,adult,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1609.jpg,compete,compete,commercial,,0,1,1,0,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2176.jpg,squ,cou,could,,1,1,1,0.6667,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2495.jpg,endous,endous,until customer,,0,1,1,0,0.7857,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/728.jpg,forcés,forcés,fund,forces,0,1,1,0,0.8333,0.1667
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1888.jpg,UN,UN,difference remember,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/257.jpg,page,page,pick,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2621.jpg,exéc,exéc,gas box,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1171.jpg,representative,representative,represent,,0,1,1,0,0.3571,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4418.jpg,tan,tog,floor,,1,1,1,0.6667,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3499.jpg,his,his,like,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4295.jpg,by,by,Mrs,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3662.jpg,–,cont,I,,1,1,1,1,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1177.jpg,ural,ural,until,,0,1,1,0,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/545.jpg,prospects,prospects,pressure,,0,1,1,0,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/341.jpg,ade parvient,asspainter,kid information,,1,1,1,0.6667,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/655.jpg,associated,associated,successful,,0,1,1,0,0.9,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3170.jpg,investir,investir,through,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1530.jpg,équipement,équivement,security amount,équipement,1,1,0,0.1,0.6667,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4083.jpg,consumed unités,consonnedunoté,consumer until,,1,1,1,0.4,0.2667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4536.jpg,Aucune,Aucune,according,,0,1,1,0,0.7778,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3645.jpg,held,held,field,,0,1,1,0,0.4,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3889.jpg,pièces,pièces,religious remember run run run run on,,0,1,1,0,0.9459,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4216.jpg,insist,insist,shoulder,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4043.jpg,posted,posted,medical,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3525.jpg,App,App,floor,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/937.jpg,lectures,lectures,business,,0,1,1,0,0.875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/441.jpg,relaxation beaten,relevationbeator,million sister government,,1,1,1,0.2941,0.76,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3966.jpg,Psalm,Pealm,health remember run run run,,1,1,1,0.2,0.8889,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1953.jpg,prevention,prevention,production,,0,1,1,0,0.4,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1194.jpg,immédiate,immédiate,themselves,,0,1,1,0,0.9,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1082.jpg,HTML,HTM,difference,,1,1,1,0.25,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2239.jpg,France,France,financial international remember,,0,1,1,0,0.875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4265.jpg,ks,ks,like,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1236.jpg,suggère,suggère,suddenly,suggere,0,1,1,0,0.75,0.1429
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2347.jpg,combinations openness,combinations,continue address,,0.5,1,1,0.4286,0.5714,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1107.jpg,acquérir,acceautre,possible,,1,1,1,0.6667,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4123.jpg,behave,behave,behind,,0,1,1,0,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3647.jpg,historique,historique,international,‘Aistorique:,0,1,1,0,0.7692,0.25
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3782.jpg,catégorie infl,catégarit,customer girl,catégorie infl,1,1,0,0.5,0.7143,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1040.jpg,tapis indication,fairesspocuration,news blood growth,,1,1,1,0.5882,0.8824,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3615.jpg,immediately abrite,connectionallyaption,democratic debate,,1,1,1,0.75,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4309.jpg,ôle,ôle,allow,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1102.jpg,extrém,actrum,oil light remember can run run,extrém,1,1,0,0.5,0.9,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4163.jpg,seminar,seminer,something,,1,1,1,0.1429,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1211.jpg,vaccines,vaccines,recognize,,0,1,1,0,0.7778,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1097.jpg,yn,yn,life,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1469.jpg,oting,oring,crime,,1,1,1,0.2,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/231.jpg,Laf,Laf,I staff,,0,1,1,0,0.7143,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3292.jpg,gran,gran,with,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/94.jpg,Introduction intit,mendactionincl,production middle,,1,1,1,0.5556,0.4444,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/259.jpg,IM,IM,difference,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4289.jpg,Master,Master,future investment room,,0,1,1,0,0.8182,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4389.jpg,Andre,Andre,fly police,,0,1,1,0,0.9,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/729.jpg,representation,representation,responsibility,,0,1,1,0,0.7143,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3989.jpg,usch,usch,usually,,0,1,1,0,0.7143,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2961.jpg,téléphoniques,téléphoniques,suddenly performance,,0,1,1,0,0.85,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4373.jpg,transactions confront,transactions,organization cell fight,,0.5,1,1,0.4286,0.5652,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1629.jpg,LO,LO,it fly,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1658.jpg,1949,1949,difference remember,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/879.jpg,jungle,tongle,forget,,1,1,1,0.3333,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4442.jpg,décédé,décédé,difference,,0,1,1,0,0.9,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/369.jpg,Qa,Qa,Democ,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2946.jpg,An,Bn,Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr Mr,,1,1,1,0.5,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3741.jpg,ourg,ourg,ability,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3250.jpg,LA,LA,likely,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3161.jpg,lauré,lauré,federal,fauré,0,1,1,0,0.8571,0.2
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1479.jpg,such,such,adult,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/599.jpg,Communications,Communications,administration,,0,1,1,0,0.5714,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2829.jpg,And,And,I red,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2301.jpg,equipment,equipment,environmental,,0,1,1,0,0.5385,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4257.jpg,dernières,dernières,themselves,derniéres,0,1,1,0,0.7,0.1111
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1942.jpg,organ,organ,probably remember run run run,,0,1,1,0,0.8966,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2971.jpg,thinking,thinking,shoulder,,0,1,1,0,0.875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2954.jpg,Often,Often,whom,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/712.jpg,saut renomm,saverpenomm,start economy,,1,1,1,0.3636,0.4615,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2618.jpg,Un,Un,film,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1534.jpg,prince,prince,almost,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4355.jpg,illust,illust,affect,,0,1,1,0,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/484.jpg,Same,Same,camera,,0,1,1,0,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1423.jpg,teams,teams,business,,0,1,1,0,0.875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2770.jpg,Content stands,Contentsconds,Democrat service,,1,1,1,0.2143,0.8125,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3537.jpg,AF,AF,a I a a a a I a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1700.jpg,accepter,accepter,president remember,,0,1,1,0,0.7778,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/762.jpg,éclair,éclair,suddenly,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2477.jpg,Membres,Membres,themselves,,0,1,1,0,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/326.jpg,respectant,respectant,respond stand,,0,1,1,0,0.4615,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/243.jpg,custom,custom,cold common I car,,0,1,1,0,0.8235,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3507.jpg,amas,amas,product,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/922.jpg,passed,passed,financial,,0,1,1,0,0.8889,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2658.jpg,abor,abor,door,,0,1,1,0,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3623.jpg,generally,parably,agency offer,,1,1,1,0.5556,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1292.jpg,subscribers,subscribers,follow almost,,0,1,1,0,0.9231,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3322.jpg,BR meth,meth,air really,,0.5,1,1,0.4286,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3513.jpg,shocking,shocking,administration,,0,1,1,0,0.8571,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/316.jpg,dose,dose,affect,,0,1,1,0,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2890.jpg,NS,NS,difference,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3485.jpg,parall,parall,special,,0,1,1,0,0.7143,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/163.jpg,indre,constre,Republican,,1,1,1,0.5714,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/40.jpg,equipment,equipment,southern car,,0,1,1,0,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1476.jpg,Mod,Mod,blood,,0,1,1,0,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/647.jpg,turnover,turnover,kitchen,,0,1,1,0,0.875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/232.jpg,considère,considère,candidate,,0,1,1,0,0.4444,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2461.jpg,Mem,Man,future,,1,1,1,0.6667,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1560.jpg,send Sam,spectCom,send agent,,1,0.5,1,0.75,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/21.jpg,gamme,gamme,common,,0,1,1,0,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2792.jpg,illing,illing,difference difference,,0,1,1,0,0.8571,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1282.jpg,illons,Aling,during,,1,1,1,0.6667,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/792.jpg,Histor,Histor,Republican remember,,0,1,1,0,0.8947,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1396.jpg,44,44,I I,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4219.jpg,De,De,Democ,,0,1,1,0,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/171.jpg,faced (9,fored(9,blood life,faced (9,1,1,0,0.375,0.8,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/434.jpg,coup,coup,coach,,0,1,1,0,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1649.jpg,uds loyal,udsbaral,dark blood,,1,1,1,0.4444,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/164.jpg,assez vétérinaire,assezvétériaire,pass determine,,1,1,1,0.1176,0.5882,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/374.jpg,spéciales,spéciales,candidate remember car run run,,0,1,1,0,0.9,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/78.jpg,arrête,arrête,girl edge,,0,1,1,0,0.7778,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/872.jpg,bateaux,partouv,somebody,,1,1,1,0.7143,0.875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1391.jpg,mix,mix,office,,0,1,1,0,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/525.jpg,avril,avril,girl,,0,1,1,0,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1997.jpg,stri,stri,skill,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1947.jpg,trouv tract,trouvbasé,least total,,1,1,1,0.4545,0.8182,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1481.jpg,sustain,sustain,suddenly,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1429.jpg,Place,Place,difference remember remember run run run run,,0,1,1,0,0.9545,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2299.jpg,cram,cram,seem,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4240.jpg,receiving,reconte,husband,,1,1,1,0.6667,0.8889,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2349.jpg,bercul,bercul,Democrat,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1779.jpg,illusion,illusion,fill same,,0,1,1,0,0.5556,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/815.jpg,ascar,asser,occur,,1,1,1,0.4,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2685.jpg,weh Ent,wahCrif,walk girl,,1,1,1,0.7143,0.7778,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2514.jpg,farms,farms,form,,0,1,1,0,0.4,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1497.jpg,système Demand,systèmeDement,audience Democrat,,1,1,1,0.2143,0.7059,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3601.jpg,présenter,présenter,production,,0,1,1,0,0.7,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2941.jpg,redemption Democra,redamptionBeneco,relationship Democrat,redemption Democra,1,1,0,0.3889,0.4286,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1752.jpg,Ear,Ear,Democrat,,0,1,1,0,0.875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1881.jpg,meal cro,medoc,myself cost,,1,1,1,0.625,0.6364,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/931.jpg,install,install,itself,,0,1,1,0,0.5714,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2679.jpg,traitée,traitée,building,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2206.jpg,Constru,Constru,Democrat,,0,1,1,0,0.875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2859.jpg,cities,obes,address,,1,1,1,0.6667,0.7143,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3919.jpg,physi ouch,physiouch,affect south,,1,1,1,0.1,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2016.jpg,Eight,Eght,ability,,1,1,1,0.2,0.7143,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3541.jpg,ass,ass,class,,0,1,1,0,0.4,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1392.jpg,Types,Types,TV those,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3259.jpg,professeur,professeur,production,,0,1,1,0,0.7,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1792.jpg,él,él,different remember run run run run,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1280.jpg,négl,négl,model,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1940.jpg,merch,merch,media,,0,1,1,0,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/820.jpg,titive,tikve,full place,titive,1,1,0,0.3333,0.9,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3411.jpg,constant,encesse,should,,1,1,1,0.875,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1199.jpg,rov,rov,right remember run run run run,,0,1,1,0,0.9667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3223.jpg,décis,décis,discuss,,0,1,1,0,0.5714,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2140.jpg,passé,passé,financial,,0,1,1,0,0.8889,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2122.jpg,rec,rec,rise,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2567.jpg,rencontrer,rencontrer,region conference,,0,1,1,0,0.5294,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2957.jpg,démons,démons,difference,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1056.jpg,incap,incap,through,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2434.jpg,rules,relles,million,,1,1,1,0.3333,0.8571,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3712.jpg,Novembre Armenia,NoumenceAntence,business American,,1,1,1,0.625,0.7059,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3295.jpg,Arab,Arab,likely,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1482.jpg,warehouse,warehouse,international remember run run run run run,,0,1,1,0,0.9048,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4097.jpg,TC,TC,difference,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3983.jpg,rit,rit,difference,,0,1,1,0,0.9,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3343.jpg,link,link,this,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4512.jpg,provider democracy,expossiondépendation,themselves democratic if run run,,1,1,1,0.85,0.6875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/180.jpg,rances esty,inessady,remain early,,1,1,1,0.6364,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2923.jpg,route,route,middle,,0,1,1,0,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2980.jpg,vity Jas,vitylas,offer like,,1,1,1,0.25,0.9,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3041.jpg,ray,ray,fight,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2529.jpg,Kar Some,KarSame,list same,,1,1,1,0.25,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3572.jpg,investisse,investisse,business,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/522.jpg,ior,ior,difference remember,,0,1,1,0,0.8947,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2522.jpg,advant,advant,also girl,,0,1,1,0,0.8889,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1679.jpg,irty,irty,office,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3644.jpg,parad,pered,general,parad,1,1,0,0.4,0.7143,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3206.jpg,Gren,Gren,green,,0,1,1,0,0.4,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/292.jpg,Are,Arc,difference,,1,1,1,0.3333,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3809.jpg,lourde,lourde,beautiful,,0,1,1,0,0.8889,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/770.jpg,4),4),difference difference,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1407.jpg,mont,mont,myself,,0,1,1,0,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1228.jpg,programm,programm,program remember,,0,1,1,0,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/550.jpg,Modern renouvelables,Mademremouvables,industry responsibility,,1,1,1,0.35,0.7391,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/72.jpg,loose,loose,thousand,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3066.jpg,ication perp,sectionpring,investment pretty,,1,1,1,0.6667,0.6471,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1985.jpg,Rest,best,food,,1,1,1,0.25,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4461.jpg,voy,voy,light,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2023.jpg,mains,mains,politics,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1898.jpg,où,où,allow,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2318.jpg,Prevention,Prevention,Republican,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4500.jpg,hoped ovic,howedoric,financial artist,hoped ovic,1,1,0,0.3,0.875,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2379.jpg,Germ,Germ,country,,0,1,1,0,0.8571,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1229.jpg,oct,act,affect,,1,1,1,0.3333,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/111.jpg,usion,usion,design,,0,1,1,0,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4192.jpg,çants miles,lingal,life full,,1,1,1,0.8182,0.8182,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1363.jpg,register,register,magazine,,0,1,1,0,0.875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1187.jpg,concernée,concernée,agreement car run run run run run run,,0,1,1,0,0.8919,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/544.jpg,Us,Us,like,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4175.jpg,bie,bie,blue,,0,1,1,0,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2196.jpg,sémin,sémin,authority,,0,1,1,0,0.8889,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3557.jpg,PHP,pat,might,,1,1,1,1,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3941.jpg,ster,ster,effort,,0,1,1,0,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/211.jpg,Sabb,sable,follow,,1,1,1,0.6,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2566.jpg,ce,ce,off,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3970.jpg,rares,rares,class,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4178.jpg,Portuguese,tttriuusssuss,Republican,,1,1,1,0.7692,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1818.jpg,demi,demi,identify,,0,1,1,0,0.625,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/332.jpg,révélation,révidation,institution,,1,1,1,0.2,0.6364,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1828.jpg,harmony,harmony,community,,0,1,1,0,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2549.jpg,Ethereum victoire,Ethereumvictaire,television station,Ethereum victoire,1,1,0,0.1176,0.8333,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3831.jpg,exchanged,exchanged,so commercial,,0,1,1,0,0.9231,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1516.jpg,replace,replace, ⁇  a,,0,1,1,0,0.8571,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3451.jpg,rain railway,ronrailleary,really military,rain railway,1,1,0,0.5,0.6,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1322.jpg,wo,wo,girl,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1772.jpg,sémin,sémin,authority,,0,1,1,0,0.8889,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3172.jpg,explorer,explorer,military,,0,1,1,0,0.875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3448.jpg,oton,apper,dinner,,1,1,1,1,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1325.jpg,ous,ous,final,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/801.jpg,/201,rept,might,,1,1,1,1,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1502.jpg,imported,imported,impact lead,,0,1,1,0,0.4545,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2374.jpg,agner,agner,common,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2600.jpg,dont,dont,during international remember,,0,1,1,0,0.8966,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3245.jpg,24,24,adult commercial remember,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4055.jpg,certains,certains,candidate,,0,1,1,0,0.8889,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3982.jpg,emeter,emeter,campaign,,0,1,1,0,0.875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1344.jpg,rév,He,difference,,1,1,1,1,0.9,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/536.jpg,suppose prise,supposeprés,suggest thus,,1,1,1,0.2308,0.6154,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/193.jpg,icity MSF,supHat,skin field,,1,1,1,1,0.9,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3783.jpg,enquête,enquête,candidate,,0,1,1,0,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1526.jpg,?? communs,communs,fly community,,0.5,1,1,0.3,0.4615,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4010.jpg,prend,prend,general remember if run run run run,,0,1,1,0,0.9143,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2908.jpg,neur,neur,model,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1051.jpg,Acc tip,parting,focus five,,1,1,1,0.8571,0.7,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2819.jpg,Bro,Bro,deep,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1591.jpg,Créateur,Créateur,traditional,,0,1,1,0,0.8182,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2588.jpg,conceived felt,consencedfant,commercial full,,1,1,1,0.4286,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3880.jpg,utilisés,utilisés,address,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1960.jpg,FP,19,why,,1,1,1,1,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2502.jpg,Industrial,industral,husband,,1,1,1,0.2,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3893.jpg,drame,drame,determine,,0,1,1,0,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1485.jpg,rable,pats,adult,,1,1,1,0.8,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3911.jpg,locked,locked,food pull,,0,1,1,0,0.8889,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/651.jpg,vieille,viedle,middle,,1,1,1,0.2857,0.5714,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4526.jpg,épous,épous,discuss remember remember run run run run run,,0,1,1,0,0.9556,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1419.jpg,Vic,Vic,office,,0,1,1,0,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2338.jpg,Shop,Shop,although,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4079.jpg,polic,polic,public,,0,1,1,0,0.3333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4572.jpg,(201,ags,office,,1,1,1,1,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2898.jpg,appel ilé,appeliti,myself off,,1,1,1,0.3333,0.7,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4506.jpg,unes,cans,carry,,1,1,1,0.75,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4555.jpg,decisive,éteure,discuss a,th Seat,1,1,1,0.875,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3000.jpg,exercé,exercé,skill kid,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4098.jpg,sk,sk,adult,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2138.jpg,Sy,Sy,air,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1656.jpg,teachings,teachings,Republican,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2562.jpg,Pays,Pays,happy,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3430.jpg,Pers,Pers,affect,,0,1,1,0,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2972.jpg,ronom,ronom,attorney,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1475.jpg,expected,expected,respond bad,,0,1,1,0,0.7273,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1488.jpg,Provence,Provence,remember,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1109.jpg,régional,ression,administration career,,1,1,1,0.625,0.7619,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2917.jpg,bec,bec,best,,0,1,1,0,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3825.jpg,occurs,accurs,beautiful remember run run run run,,1,1,1,0.1667,0.9412,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1213.jpg,Egypte,parte,Congress,,1,1,1,0.6667,0.875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1551.jpg,héros,héros,Mrs,,0,1,1,0,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3803.jpg,diplom,diplom,ability investment remember run run run run run,,0,1,1,0,0.9574,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3247.jpg,Alternative incapable,Admatiquerecondue,identify successful remember,,1,1,1,0.7143,0.8214,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1385.jpg,1),1),I,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/165.jpg,exclusion saints,ecticationsoints,collection ability,,1,1,1,0.5,0.6111,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4329.jpg,anciennes,anciennes,environment,,0,1,1,0,0.6364,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1639.jpg,repris,repris,respond commercial car run run run run run,,0,1,1,0,0.881,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/335.jpg,analyser Jack,ccooooiiosssss,responsibility choice,,1,1,1,1,0.8571,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/625.jpg,immy,immy,impact,,0,1,1,0,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/238.jpg,things Wat,imparti,collection,THINGS WAT,1,1,1,0.9,1,0.8
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/921.jpg,rote,rote,might,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3778.jpg,venu,venu,identify,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1207.jpg,forces,forces,Democrat car,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3192.jpg,élect,élect,different remember run run run run run,,0,1,1,0,0.9474,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2384.jpg,70,70,difference remember run run run run run,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4276.jpg,collected,resported,relationship I run run run run run,,1,1,1,0.6667,0.9706,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2033.jpg,Construction,Construction,certainly suddenly,,0,1,1,0,0.8889,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/155.jpg,exercised,exercised,its president,,0,1,1,0,0.7692,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/515.jpg,inhabited,inhabited,financial,,0,1,1,0,0.7778,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/432.jpg,étant,étant,identify international remember run run run run,,0,1,1,0,0.9362,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2231.jpg,fishing,fishing,feeling,,0,1,1,0,0.4286,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1762.jpg,dor,dor,door,,0,1,1,0,0.25,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3163.jpg,ous Said,ousSald,ask build,,1,1,1,0.25,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4537.jpg,ouri,ouri,adult,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2870.jpg,irts Phy,Phy,life fly,,0.5,1,1,0.625,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1312.jpg,wond,wond,spend,,0,1,1,0,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/683.jpg,Prim,Prim,PM,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3178.jpg,cember,cember,continue,,0,1,1,0,0.875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3306.jpg,orage,orager,president,,1,1,1,0.1667,0.7778,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2835.jpg,Phys,Phys,physical throughout run run run run,Phys,0,1,0,0,0.9143,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2320.jpg,weakness,weakness,traditional remember run run run run on,,0,1,1,0,0.9231,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/577.jpg,matières,matières,middle,matiéres,0,1,1,0,0.75,0.125
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2571.jpg,arma,pring,arrive,arma,1,1,0,0.8,0.6667,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/656.jpg,souverain,souverch,population remember run run run run run run,souverain,1,1,0,0.3333,0.8837,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2648.jpg,Security,Security,beautiful,,0,1,1,0,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3776.jpg,Low,Low,back,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3328.jpg,asia,asia,building,,0,1,1,0,0.875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1246.jpg,world drunk,wordédrunk,world during,world drunk,1,0.5,0,0.1818,0.25,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/24.jpg,S,S,its Democrat,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3345.jpg,liti,liti,difference,{iti,0,1,1,0,0.9,0.25
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4236.jpg,issues,isses,Congress,,1,1,1,0.1667,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1354.jpg,Aux,Aux,add,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2933.jpg,haps,haps,happy,,0,1,1,0,0.4,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2284.jpg,èler trafficking,berbentisive,like perhaps,,1,1,1,0.75,0.9375,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2737.jpg,avoc,avoc,answer,,0,1,1,0,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2233.jpg,Single,Single,somebody,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1333.jpg,eth,eth,offer,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3898.jpg,été,été,affect,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2749.jpg,permet,permet,general international run run run run run run,,0,1,1,0,0.9111,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/808.jpg,bours,bours,Democrat,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/660.jpg,défic,défic,address,,0,1,1,0,0.8571,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/490.jpg,town,town,body,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3518.jpg,Sinon,Sinon,design,,0,1,1,0,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4343.jpg,urg,urg,difference,,0,1,1,0,0.9,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2581.jpg,rie,rie,difference,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2633.jpg,Why,any,why,,1,1,1,0.6667,0.3333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/399.jpg,sea,sea,detail,,0,1,1,0,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/467.jpg,consol,consol,control,consol,0,1,0,0,0.2857,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2968.jpg,grant,grant,apply,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3465.jpg,forth,forth,TV fill,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3848.jpg,uple,uple,while,,0,1,1,0,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2116.jpg,dor,dor,offer,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2544.jpg,intermédiaire subventions,présentationssubsements,international business,,1,1,1,0.76,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1673.jpg,morceaux,morceaux,mind establish,,0,1,1,0,0.7857,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/858.jpg,imp,imp,they,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1655.jpg,reflected,reflected,reflect bed,,0,1,1,0,0.1818,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1584.jpg,utilisée,utilisée,still inside,,0,1,1,0,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1454.jpg,combien montré,contienmontré,condition market,combien montré,1,1,0,0.2143,0.625,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/85.jpg,vert,vert,card,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4335.jpg,lancé,lancé,Congress,,0,1,1,0,0.875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2004.jpg,augment,approped,responsibility remember run run run run run run,,1,1,1,0.875,0.9362,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/910.jpg,covers,covers,Congress,,0,1,1,0,0.625,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3988.jpg,Lis,Lis,like,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/229.jpg,educ,educ,address,,0,1,1,0,0.8571,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1986.jpg,gard,gard,sport,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/567.jpg,dates,dates,address,,0,1,1,0,0.5714,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3491.jpg,commis Group,commisGrow,community draw,commis Group,1,1,0,0.25,0.5714,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2040.jpg,bons odynam,contran,Mrs summer,,1,1,1,0.7273,0.8182,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1928.jpg,Ham Player,HamPlay,film floor,Ham Player,1,1,0,0.3,0.7,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2755.jpg,institute,institute,Republican,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3672.jpg,Account,Account,discussion,,0,1,1,0,0.9,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4560.jpg,térieurs limited,constructions,future almost,,1,1,1,0.875,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/584.jpg,will,will,will,will,0,0,0,0,0,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4454.jpg,brid,brid,build,,0,1,1,0,0.4,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3131.jpg,inutile,inutile,inside,,0,1,1,0,0.4286,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2657.jpg,eux,eux,apply,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2708.jpg,mentale,mentale,mention,,0,1,1,0,0.4286,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3920.jpg,Reasons,Reasons,themselves,,0,1,1,0,0.7,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1458.jpg,despair berg,despections,least end,,1,1,1,0.6667,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3310.jpg,apparence,apparence,physical,,0,1,1,0,0.8889,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1209.jpg,Our iscons,iitcsccoiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiitsssssssssssssssssssscsiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii,light assume,,1,1,1,0.9766,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2413.jpg,poursuite,poursains,themselves remember,,1,1,1,0.3333,0.8947,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4040.jpg,formé,formé,former,,0,1,1,0,0.3333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4522.jpg,productivity mout,productivitymouf,production goal,productivity mout,1,1,0,0.1176,0.4118,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3528.jpg,kills,kills,full,,0,1,1,0,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2586.jpg,illance,illance,difference,,0,1,1,0,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2091.jpg,itative,itative,finally,,0,1,1,0,0.8571,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/613.jpg,ects,ects,decide,,0,1,1,0,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2778.jpg,lantique,lantique,land figure,,0,1,1,0,0.4545,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2175.jpg,représenter parf,représencepart,represent pull,,1,1,1,0.25,0.375,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2448.jpg,terrain,terrain,card skill,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4095.jpg,none bourses,bourses,home business,,0.5,1,1,0.4167,0.5385,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3441.jpg,subse,subse,address,,0,1,1,0,0.8571,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1371.jpg,hood,hood,head,,0,1,1,0,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/701.jpg,recre,recre,region,,0,1,1,0,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3730.jpg,confused Se,conficisatéSe,understand as,,1,1,1,0.4615,0.7692,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/14.jpg,Nantes,Nantes,themselves,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1965.jpg,ù,L,difference,,1,1,1,1,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/645.jpg,rib importantes,importants,risk impact almost remember run run time,rib importantes,1,1,0,0.3333,0.75,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/670.jpg,dual,dual,detail,,0,1,1,0,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1130.jpg,rif promote,promate,fill economic,,1,1,1,0.4545,0.6923,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1185.jpg,prophe,prophe,analysis,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2629.jpg,mart,mart,myself,,0,1,1,0,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/496.jpg,due,due,affect professional remember,,0,1,1,0,0.9643,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3500.jpg,recession iran,recession,message run,,0.5,1,1,0.3571,0.5714,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1995.jpg,turnover,turnover,administration,turnover,0,1,0,0,0.8571,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1643.jpg,confisc,zentes,continue,,1,1,1,0.7143,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1247.jpg,enced,enced,should,,0,1,1,0,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4479.jpg,Holland,Holland,husband,,0,1,1,0,0.5714,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3764.jpg,South,quaith,usually remember,,1,1,1,0.6667,0.9375,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/696.jpg,ff,ff,if,,0,1,1,0,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3005.jpg,Association,Association,administration,Association,0,1,0,0,0.5714,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3503.jpg,Fight,Fight,family run run,,0,1,1,0,0.9286,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3187.jpg,fes,fes,fact,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/210.jpg,Eat,Eat,ball,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4189.jpg,refined,refined,religious,,0,1,1,0,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1227.jpg,aviation,aviation,generation,,0,1,1,0,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3914.jpg,ycl influence,influence,girl off listen,yel inf luence,0.5,1,1,0.3077,0.7333,0.1429
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3570.jpg,fur,fur,fire,,0,1,1,0,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2142.jpg,yond,yond,world,,0,1,1,0,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4354.jpg,bassin,bassin,discussion,,0,1,1,0,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3987.jpg,Kirk,Eg,lot,,1,1,1,1,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1650.jpg,resulted,resulted,medical,,0,1,1,0,0.875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4068.jpg,persu,persu,generation,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/510.jpg,Believe overy,comment,if,,1,1,1,0.9231,0.9231,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4252.jpg,aston,aston,action,,0,1,1,0,0.3333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3194.jpg,courriel,courriel,court full remember car run,,0,1,1,0,0.7778,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/705.jpg,Clim,Clim,difference remember remember,,0,1,1,0,0.9643,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/380.jpg,épuis mains,Soutemaine,speak method,,1,1,1,0.5455,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/671.jpg,cade,cade,candidate,,0,1,1,0,0.5556,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3882.jpg,angé poussé,emplpoussé,small product,,1,1,1,0.4545,0.7692,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2271.jpg,infirm,infirm,challenge,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2945.jpg,trademark,dédementi,thousand,,1,1,1,0.7778,0.7778,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2427.jpg,secondaire,secondaire,successful customer if run run or,,0,1,1,0,0.8182,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1327.jpg,British,attish,girl job remember run run,British,1,1,0,0.4286,0.96,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2395.jpg,Yemen,Yemen,I simply,,0,1,1,0,0.875,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2223.jpg,mont,mont,myself,,0,1,1,0,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/764.jpg,net,net,PM I,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/661.jpg,usine,usine,culture,,0,1,1,0,0.7143,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4603.jpg,Louvre,Louvre,it country,,0,1,1,0,0.7,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3075.jpg,mathematics,mathematics,middle particular,,0,1,1,0,0.6471,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3315.jpg,zo,zo,effect,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/300.jpg,mots,mots,middle,,0,1,1,0,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4141.jpg,Cis,Cis,like,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3964.jpg,trajet mar,opportaire,base ok,,1,1,1,0.9,0.7,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2080.jpg,Agence,Agence,federal remember run run run,,0,1,1,0,0.9286,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3614.jpg,and,and,until,,0,1,1,0,0.8,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1137.jpg,Software,contracts,during,,1,1,1,0.6667,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2462.jpg,ose,ose,east,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1445.jpg,activ Mol,activMol,quickly field,activ Mol,1,1,0,0.1111,0.7692,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3906.jpg,PV,PV,TV I,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1909.jpg,personnage,expersent,necessary,porsonaage,1,1,1,0.7,0.8,0.2
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4573.jpg,uin,uin,offer,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3425.jpg,heastern,heastern,thousand remember car run run run on,,0,1,1,0,0.8611,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4094.jpg,rel,rel,full,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1892.jpg,pris,pris,artist,,0,1,1,0,0.5,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1595.jpg,Since,Since,difference,,0,1,1,0,0.6,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1899.jpg,atom,atom,citizen,,0,1,1,0,0.8571,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3104.jpg,résoudre ativity,possingactip,resource ability,,1,1,1,0.8125,0.3125,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1342.jpg,,,like,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4223.jpg,ressortissants,exservessents,possible recognize,,1,1,1,0.4286,0.8333,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1214.jpg,tout,tout,food,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/946.jpg,LinkedIn,Linwedin,I this ability,,1,1,1,0.25,0.9286,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/4367.jpg,Understanding,Understanding,business beautiful,,0,1,1,0,0.7778,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2740.jpg,commencement,commencement,commercial common,,0,1,1,0,0.5882,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1654.jpg,producers,conducers,production,producers,1,1,0,0.3333,0.4,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1494.jpg,quant,quant,suddenly,,0,1,1,0,0.75,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3986.jpg,withdrawal,présiques,almost spend,,1,1,1,1,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/283.jpg,sage,sage,subject,,0,1,1,0,0.7143,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/2425.jpg,meth,meth,myself,,0,1,1,0,0.6667,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/990.jpg,invite,invite,imagine,,0,1,1,0,0.5714,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1376.jpg,morts,morts,most,,0,1,1,0,0.4,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/3533.jpg,Pro,Pro,fine,,0,1,1,0,1,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1112.jpg,Period prospérité,Pertadprosposité,himself knowledge run run run run run on,Period prospérité,1,1,0,0.2941,0.85,0
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/395.jpg,seized,served,staff need,,1,1,1,0.3333,0.7,1
+/home/jasroop.dhindsa/token-ocr-eval/finetune_v1/gradual/new_evaluation_blur/1361.jpg,ier,ier,fight,,0,1,1,0,0.8,1
